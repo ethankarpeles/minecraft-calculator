@@ -1,5 +1,5 @@
-# Minecraft Computer
-This is an 8-bit computer in Minecraft!
+# Minecraft Calculator
+This is an 8-bit calculator in Minecraft!
 
 ## Inspiration
 This project is based on a video series by Ben Eater which shows how to build an 8-bit breadboard computer. All of the components of his computer can easily be represented by logic gates which are also possible to create in Minecraft using redstone.
